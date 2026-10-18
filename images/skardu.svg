@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Turquoise lake beneath rugged brown mountains and sand dunes">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4d8fc7"/><stop offset="1" stop-color="#cfe8f7"/></linearGradient>
+    <linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2ec4c0"/><stop offset="1" stop-color="#0f6f8a"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#s)"/>
+  <polygon points="0,300 120,150 230,250 380,90 520,240 650,140 800,260 800,330 0,330" fill="#a07f5f"/>
+  <polygon points="380,90 345,150 375,142 392,168 412,140 435,150" fill="#fff"/>
+  <polygon points="650,140 622,185 645,178 660,198 676,176 695,184" fill="#fff"/>
+  <polygon points="0,330 180,270 360,330 560,280 800,340 800,360 0,360" fill="#7e6045"/>
+  <rect y="340" width="800" height="160" fill="url(#w)"/>
+  <polygon points="0,360 160,335 320,362 120,372" fill="#c9a779" opacity="0.9"/>
+  <ellipse cx="520" cy="420" rx="150" ry="8" fill="#ffffff" opacity="0.25"/>
+  <ellipse cx="280" cy="455" rx="110" ry="6" fill="#ffffff" opacity="0.2"/>
+  <polygon points="600,500 800,420 800,500" fill="#c9a779"/>
+</svg>

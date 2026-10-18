@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Snow-capped mountains at sunrise above a calm valley">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b3a5c"/>
+      <stop offset="0.55" stop-color="#e8836b"/>
+      <stop offset="1" stop-color="#ffd6a0"/>
+    </linearGradient>
+    <linearGradient id="far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fa6c4"/>
+      <stop offset="1" stop-color="#5d7396"/>
+    </linearGradient>
+    <linearGradient id="mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4b6285"/>
+      <stop offset="1" stop-color="#2e4262"/>
+    </linearGradient>
+    <linearGradient id="lake" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3a77f"/>
+      <stop offset="1" stop-color="#2f5d7c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="700" fill="url(#sky)"/>
+  <circle cx="1130" cy="330" r="90" fill="#fff1c9" opacity="0.9"/>
+  <circle cx="1130" cy="330" r="140" fill="#fff1c9" opacity="0.18"/>
+  <polygon points="0,470 160,300 260,380 420,190 560,360 700,260 860,400 1000,240 1180,420 1340,280 1480,380 1600,320 1600,520 0,520" fill="url(#far)"/>
+  <polygon points="420,190 380,250 410,240 430,270 455,235 480,250" fill="#ffffff" opacity="0.9"/>
+  <polygon points="1000,240 960,300 990,292 1010,320 1035,288 1060,300" fill="#ffffff" opacity="0.9"/>
+  <polygon points="0,540 120,420 250,500 400,380 560,520 740,400 900,530 1080,410 1250,520 1420,420 1600,520 1600,600 0,600" fill="url(#mid)"/>
+  <rect y="540" width="1600" height="160" fill="url(#lake)"/>
+  <ellipse cx="1130" cy="590" rx="120" ry="10" fill="#fff1c9" opacity="0.55"/>
+  <ellipse cx="1130" cy="615" rx="80" ry="6" fill="#fff1c9" opacity="0.4"/>
+  <polygon points="0,700 0,640 90,610 200,650 320,620 440,660 560,630 700,670 700,700" fill="#1f3a2d"/>
+  <polygon points="900,700 900,660 1040,630 1180,665 1320,625 1460,655 1600,630 1600,700" fill="#1f3a2d"/>
+</svg>

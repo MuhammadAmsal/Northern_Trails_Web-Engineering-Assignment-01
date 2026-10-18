@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Autumn valley with golden trees and a high ridge">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5b8fc4"/><stop offset="1" stop-color="#f6e3c0"/></linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#s)"/>
+  <polygon points="0,320 140,180 260,260 420,120 580,260 720,170 800,230 800,340 0,340" fill="#7d8ca6"/>
+  <polygon points="420,120 385,175 412,168 428,192 446,166 470,174" fill="#fff"/>
+  <polygon points="0,500 0,360 220,310 440,370 660,320 800,350 800,500" fill="#9b7a3a"/>
+  <path d="M0,430 Q220,380 420,430 T800,410" fill="none" stroke="#6fb5d6" stroke-width="22" opacity="0.85"/>
+  <g>
+    <circle cx="90" cy="360" r="34" fill="#e3a12e"/><rect x="85" y="380" width="10" height="46" fill="#5b3a1e"/>
+    <circle cx="170" cy="380" r="28" fill="#c9561f"/><rect x="166" y="398" width="8" height="40" fill="#5b3a1e"/>
+    <circle cx="640" cy="350" r="36" fill="#e3a12e"/><rect x="635" y="372" width="10" height="48" fill="#5b3a1e"/>
+    <circle cx="720" cy="380" r="30" fill="#d9731f"/><rect x="716" y="400" width="8" height="42" fill="#5b3a1e"/>
+    <circle cx="560" cy="385" r="26" fill="#c9561f"/><rect x="556" y="402" width="8" height="38" fill="#5b3a1e"/>
+  </g>
+</svg>
